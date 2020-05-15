@@ -1,1 +1,1 @@
-This Is A Story Of A Girl Who Is Learning Git.
+This Is A Story Of A Girl Who Is Learning Git. This Story Is Quite Short.
