@@ -1,1 +1,2 @@
-This Is A Story Of A Girl Who Is Learning Git. This Story Is Quite Short.
+This Is A Story Of A Girl Who Is Learning Git. This Story Is Quite Short. The Girl Was Able To Learn Git 
+And Started Using It On A Day To Day Basis.
