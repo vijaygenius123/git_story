@@ -2,3 +2,4 @@ This Is A Story Of A Girl Who Is Learning Git. This Story Is Quite Short. The Gi
 And Started Using It On A Day To Day Basis.
 This Is Nice. VSCode Makes It Easier To Use Git.
 This Is A Nice Line.
+Git Commit -a
